@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <link rel="stylesheet" href="style.css">
+
+  <title>Frontend Mentor | Expenses chart component</title>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <header class="container__my-balance">
+      <div class="container__my-balance__box">
+        <p class="container__my-balance__box__title">
+          My balance
+        </p>
+        <p class="container__my-balance__box__balance bold">
+          $921.48
+        </p>
+      </div>
+      <picture class="container__my-balance__img">
+        <img class="container__my-balance__img__logo" src="images/logo.svg" alt="logo">
+      </picture>
+    </header>
+
+    <main class="container__spending-week">
+      <div class="container__spending-week__box">
+        <h1 class="container__spending-week__box__heading">
+          Spending - Last 7 days
+        </h1>
+      </div>
+
+      <!-- &nbsp -->
+      <div class="container__spending-week__graphic">
+        <div class="column col-1"> <div class="spending-value bold">00.00</div> </div>
+        <div class="column col-2"> <div class="spending-value bold">00.00</div> </div>
+        <div class="column col-3"> <div class="spending-value bold">00.00</div> </div>
+        <div class="column col-4"> <div class="spending-value bold">00.00</div> </div>
+        <div class="column col-5"> <div class="spending-value bold">00.00</div> </div>
+        <div class="column col-6"> <div class="spending-value bold">00.00</div> </div>
+        <div class="column col-7"> <div class="spending-value bold">00.00</div> </div>
+
+        <p class="secondary-text litte-font">mon</p>
+        <p class="secondary-text litte-font">tue</p>
+        <p class="secondary-text litte-font">wed</p>
+        <p class="secondary-text litte-font">thu</p>
+        <p class="secondary-text litte-font">fri</p>
+        <p class="secondary-text litte-font">sat</p>
+        <p class="secondary-text litte-font">sun</p>
+      </div>
+
+      <div class="container__spending-week__total-box">
+        <div class="container__spending-week__total-box__this-month">
+          <p class="secondary-text">
+            Total this month
+          </p>
+          <p class="container__spending-week__total-box__this-month__total bold">
+            $478.33
+          </p>
+        </div>
+
+        <div class="container__spending-week__total-box__difference">
+          <p class="bold">
+            +2.4%
+          </p>
+          <p> 
+          from last month
+          </p>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!--   
+  <footer class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://www.frontendmentor.io/profile/Marchino5791">Marco Antonio Paolino</a>.
+  </footer> -->
+
+  <script type="module" src="script.js"></script>
+</body>
+
+</html>
