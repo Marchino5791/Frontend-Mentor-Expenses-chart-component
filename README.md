@@ -29,11 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Expenses chart component Screenshot](https://github.com/Marchino5791/Expenses-chart-component/blob/main/Screenshot%202023-01-31%2011.32.16.png)
+![Expenses chart component Screenshot](https://github.com/Marchino5791/Frontend-Mentor-Expenses-chart-component/blob/main/Screenshot%202023-01-31%2011.32.16.png)
 
 ### Links
 
-- Solution URL: [https://github.com/Marchino5791/Expenses-chart-component](https://github.com/Marchino5791/Expenses-chart-component)
+- Solution URL: [https://github.com/Marchino5791/Frontend-Mentor-Expenses-chart-component](https://github.com/Marchino5791/Frontend-Mentor-Expenses-chart-component)
 - Live Site URL: []()
 
 ## My process
