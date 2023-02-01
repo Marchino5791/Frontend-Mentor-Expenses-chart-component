@@ -1,0 +1,30 @@
+[
+    {
+        "day": "lun",
+        "amount": 10.45
+    },
+    {
+        "day": "mar",
+        "amount": 10.91
+    },
+    {
+        "day": "mer",
+        "amount": 20.00
+    },
+    {
+        "day": "gio",
+        "amount": 31.07
+    },
+    {
+        "day": "ven",
+        "amount": 50.50
+    },
+    {
+        "day": "sab",
+        "amount": 23.28
+    },
+    {
+        "day": "dom",
+        "amount": 15.50
+    }
+]
