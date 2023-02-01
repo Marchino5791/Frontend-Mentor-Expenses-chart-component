@@ -58,8 +58,8 @@ To improve my javascript's knowledge to make more complex and interactive websit
 
 ### Useful resources
 
-- [JavaScript Tip: Loading a Local JSON File without Fetch](https://www.youtube.com/watch?v=Z92PqSyUBSI) - This video helped me to use external json file
-- [How TO - Add Active Class to Current Element](https://www.w3schools.com/howto/howto_js_active_element.asp) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [https://www.freecodecamp.org/italian/news/esempio-json-stringify-come-analizzare-un-oggetto-json-con-js/) - This article helped me to use external json file
+- [How TO - Add Active Class to Current Element](https://www.w3schools.com/howto/howto_js_active_element.asp)
 
 ## Author
 
