@@ -125,7 +125,7 @@ body {
 .container__spending-week__total-box {
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
     padding-top: 2rem;
     border-top: 2px solid var(--bg);
     margin-top: 2rem;
