@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/Marchino5791/Frontend-Mentor-Expenses-chart-component/main/data.json";
+const url = "https://raw.githubusercontent.com/Marchino5791/Frontend-Mentor-Expenses-chart-component/main/data2it.json";
 
 fetch(url)
     .then(res => res.json()) // the .json() method parses the JSON response into a JS object literal
